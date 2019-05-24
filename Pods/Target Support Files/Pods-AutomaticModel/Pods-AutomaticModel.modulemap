@@ -1,0 +1,6 @@
+framework module Pods_AutomaticModel {
+  umbrella header "Pods-AutomaticModel-umbrella.h"
+
+  export *
+  module * { export * }
+}

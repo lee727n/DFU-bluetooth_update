@@ -1,0 +1,24 @@
+PODS:
+  - iOSDFULibrary (4.4.0):
+    - ZIPFoundation (~> 0.9.8)
+  - MJExtension (3.0.15.1)
+  - ZIPFoundation (0.9.9)
+
+DEPENDENCIES:
+  - iOSDFULibrary
+  - MJExtension
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - iOSDFULibrary
+    - MJExtension
+    - ZIPFoundation
+
+SPEC CHECKSUMS:
+  iOSDFULibrary: 63f0768fa57aff4fbdf1a21b3e564afaabe0c793
+  MJExtension: 19bc33ce2eee2d319760f5622562cf581a6ff756
+  ZIPFoundation: 89df685c971926b0323087952320bdfee9f0b6ef
+
+PODFILE CHECKSUM: 569f8dbfbb08279061e8ad3ade009ea8d6336ab3
+
+COCOAPODS: 1.6.0.beta.2
